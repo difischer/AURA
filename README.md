@@ -1,6 +1,7 @@
 # AURA — Animated Utterance-Reactive Avatars. 
 
 **Have yoy ever wanted to turn your podcasts recording into video?**
+
 **Want to make something that looks like a group call?**
 
 Aura Cast is my sideproyect that takes the audio of your participants and an image for them, and builds a video where everyone has their own tile (Group call style). When someone talks an aura of rings expands arrount their image, the border lights up, the avatar grows and a sound wave moves underneath (all of this is optional). ¡Plus the speaker name will appear in the corner of yout choosing!.
