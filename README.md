@@ -7,7 +7,7 @@
 Aura Cast is my sideproyect that takes the audio of your participants and an image for them, and builds a video where everyone has their own tile (Group call style). When someone talks an aura of rings expands arrount their image, the border lights up, the avatar grows and a sound wave moves underneath (all of this is optional). ¡Plus the speaker name will appear in the corner of yout choosing!.
 The result looks like a call recording so you can upload it to YouTube or whatever you want.
 
-![example](img\Aura_example.PNG)
+![Aura results example](/img/Aura_example.PNG)
 
 ## What it does
 
