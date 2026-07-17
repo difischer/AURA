@@ -79,10 +79,21 @@ The render uses multiple cores and avoids the disk for intermediate frames.
 
 ## To be added
 
+- Making AURA a standalone .exe software (no need to install python or other software)
 - On machines with an NVIDIA GPU, the hardware NVENC encoder can optionally be enabled from the output configuration, with an automatic fallback to the software encoder if it is not available.
+- Solid color and gradient background
 - Adding a background image to the program
 - Making the "Idle noise" more random
-- Preview with a fraction of the actual audio 
+- Preview with a fraction of the actual audio
+- 9:16 format (for shorts/reels)
+- Obtain subtitles with Wisper (Probably maybe)
+- Attenuation of non speakers
+- Episode progress bar
+- Automatic LUFS normalizaton or automatic thersholds adjustments for different speaker
+- Video loop for the background
+- Image for speaker tile (instead of solid color)
+- Video or video loop instead of speaker image
+- Themes you can share with the comunity
 
 ## Documentation
 
